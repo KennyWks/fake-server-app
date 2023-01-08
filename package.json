@@ -1,8 +1,7 @@
 {
-  "name": "json-fake-server",
+  "name": "fake-server-app",
   "version": "1.0.0",
   "description": "for test json request",
-  "main": "index.js",
   "scripts": {
     "start": "node server.js"
   },

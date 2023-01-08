@@ -1,0 +1,85 @@
+{
+  "data": [
+    {
+      "id": "c25daebe-765e-4d57-8fcf-66776a6dbedd",
+      "nama": "Koleksi Tenun",
+      "deskripsi": "Desk Singkat Tenun",
+      "asal": null,
+      "kategori_id": "bb91117f-47c1-48e3-9068-de8d3faeb9f9",
+      "image": "639eeea83fc13.png",
+      "sub_kategori": "tse",
+      "inv_lama": "33",
+      "inv_baru": "45",
+      "ukuran": "23X45",
+      "pembuatan": "-",
+      "perolehan": "-",
+      "tahun_buat": "1987",
+      "tgl_perolahan": "2022-09-09",
+      "tempat_simpan": "Ruang B",
+      "kondisi": "0",
+      "ket": "Ket Baik",
+      "kabupaten_id": "5304 ",
+      "image_detail": "639eeea84365c.png",
+      "asal_sekarang": "5371   ",
+      "deskripsi_lengkap": null,
+      "kategori": {
+        "id": "bb91117f-47c1-48e3-9068-de8d3faeb9f9",
+        "kategori": "Etnografika"
+      }
+    },
+    {
+      "id": "c25daebe-765e-4d57-8fcf-66776a6dbeff",
+      "nama": "Koleksi Tembikar",
+      "deskripsi": "Desk Singkat Tembikar",
+      "asal": null,
+      "kategori_id": "bb91117f-47c1-48e3-9068-de8d3faeb9f9",
+      "image": "639eeea83fc13.png",
+      "sub_kategori": "tse",
+      "inv_lama": "33",
+      "inv_baru": "45",
+      "ukuran": "23X45",
+      "pembuatan": "-",
+      "perolehan": "-",
+      "tahun_buat": "1987",
+      "tgl_perolahan": "2022-09-09",
+      "tempat_simpan": "Ruang B",
+      "kondisi": "0",
+      "ket": "Ket Baik",
+      "kabupaten_id": "5304 ",
+      "image_detail": "639eeea84365c.png",
+      "asal_sekarang": "5371   ",
+      "deskripsi_lengkap": null,
+      "kategori": {
+        "id": "bb91117f-47c1-48e3-9068-de8d3faeb9f9",
+        "kategori": "Etnografika"
+      }
+    },
+    {
+      "id": "c25daebe-765e-4d57-8fcf-66776a6dbeed",
+      "nama": "Koleksi Arca",
+      "deskripsi": "Desk Singkat Arca",
+      "asal": null,
+      "kategori_id": "bb91117f-47c1-48e3-9068-de8d3faeb9f8",
+      "image": "639eeea83fc13.png",
+      "sub_kategori": "tse",
+      "inv_lama": "33",
+      "inv_baru": "45",
+      "ukuran": "23X45",
+      "pembuatan": "-",
+      "perolehan": "-",
+      "tahun_buat": "1987",
+      "tgl_perolahan": "2022-09-09",
+      "tempat_simpan": "Ruang B",
+      "kondisi": "0",
+      "ket": "Ket Baik",
+      "kabupaten_id": "5304 ",
+      "image_detail": "639eeea84365c.png",
+      "asal_sekarang": "5371   ",
+      "deskripsi_lengkap": null,
+      "kategori": {
+        "id": "bb91117f-47c1-48e3-9068-de8d3faeb9f8",
+        "kategori": "Etnografika"
+      }
+    }
+  ]
+}
