@@ -1,0 +1,32 @@
+{
+    "data": [
+        {
+            "kategori": "Etnografika",
+            "m": {
+                "sub_kategori": "sub kateg",
+                "nama": "Tes Dummy                                                                                           ",
+                "deskripsi_lengkap": null,
+                "image": "6397dc05b7094.jpeg",
+                "image_detail": "6399bb0e5487a.png",
+                "tgl_perolahan": "2022-05-09"
+            },
+            "k": {
+                "nama": "KAB. KUPANG                                                                                         "
+            }
+        },
+        {
+            "kategori": "Etnografika",
+            "m": {
+                "sub_kategori": "tse",
+                "nama": "Koleksi Tenun                                                                                       ",
+                "deskripsi_lengkap": null,
+                "image": "639eeea83fc13.png",
+                "image_detail": "639eeea84365c.png",
+                "tgl_perolahan": "2022-09-09"
+            },
+            "k": {
+                "nama": "KAB. BELU                                                                                           "
+            }
+        }
+    ]
+}

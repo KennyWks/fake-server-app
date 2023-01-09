@@ -1,0 +1,20 @@
+{
+    "data": [
+        {
+            "id": "bb91117f-47c1-48e3-9068-de8d3faeb9f9",
+            "kategori": "Etnografika"
+        },
+        {
+            "id": "21e4ae0c-6f2e-4208-95c5-30fe6851cb9c",
+            "kategori": "Test Kategori"
+        },
+        {
+            "id": "1ec7345c-b9b1-4751-8b18-e3076614d969",
+            "kategori": "Test Kategori Satu"
+        },
+        {
+            "id": "f816fe4c-0a48-4863-aee9-3b6651eafd69",
+            "kategori": "test kat"
+        }
+    ]
+}
